@@ -60,7 +60,7 @@ Aquí hay un ejemplo de cómo se puede usar la clase ColorCode:
 
 Ruby
 color_code = ColorCode.new("rojo", "verde", "amarillo", "azul")
-Utiliza el código con precaución. Más información
+
 Este código crea un código de colores con los colores rojo, verde, amarillo y azul.
 
 El siguiente es un ejemplo de cómo se puede usar el método random():
@@ -69,8 +69,6 @@ Ruby
 color_code = ColorCode.random()
 
 Este código genera un código de colores aleatorio.
-
-Espero que esta explicación sea útil. Hágame saber si tiene alguna otra pregunta.
 
 Aquí hay algunas explicaciones adicionales:
 
